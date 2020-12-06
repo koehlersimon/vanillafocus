@@ -1,2 +1,2 @@
 # vanillafocus
-The new focuspoint plugin without jQuery dependency
+The image focuspoint plugin without jQuery dependency
