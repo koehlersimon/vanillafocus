@@ -1,3 +1,5 @@
+<img src="https://github.com/koehlersimon/vanillafocus/blob/main/vanillafocus.png?raw=true">
+
 # vanillafocus
 The plain JS focuspoint plugin without jQuery dependency. Inspired by jQuery FocusPoint, salted with some extra CSS.
 
